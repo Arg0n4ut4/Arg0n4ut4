@@ -1,0 +1,70 @@
+<p align="right">
+  🌍 <a href="./README.md">English version</a>
+</p>
+
+<h1 align="center">Olá, eu sou o Senna 👨‍💻</h1>
+<p align="center">
+  <i>Desenvolvedor de Software | Estudante de I.T.</i>
+</p>
+
+---
+
+### 🧾 Sobre mim
+
+Meu nome completo é **João Pedro Rocha Senna**, também conhecido como **Arg0n4ut4** aqui no GitHub. Sou um desenvolvedor de software e estudante de I.T. focado na construção de **aplicações fullstack**, com paixão por arquitetura limpa, precisão técnica e resolução criativa de problemas. Meu código costuma refletir clareza, propósito e vontade de aprender.
+
+✉️ **Contato**: ti.senna.main@gmail.com
+
+---
+
+### 🚀 Tecnologias principais
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=fff)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
+
+### 🛠️ Ferramentas que utilizo
+
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=fff)
+![Inkscape](https://img.shields.io/badge/-Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+
+---
+
+### 🌐 Idiomas que falo
+
+> Consigo me comunicar com tranquilidade em:
+
+- 🇧🇷 **Português** (nativo)  
+- 🇺🇸 **Inglês** (intermediário / B1)
+
+---
+
+### 📊 Estatísticas GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arg0n4ut4&show_icons=true&theme=tokyonight" alt="Estatísticas GitHub" />
+</p>
+
+---
+
+### 🎯 Objetivos atuais
+
+- Aprimorar habilidades em arquitetura de software  
+- Praticar algoritmos e estruturas de dados  
+- Aprender FastAPI
+
+---
+
+<p align="center">
+  <i>“Criatividade é inteligência se divertindo.” – Albert Einstein</i>
+</p>
