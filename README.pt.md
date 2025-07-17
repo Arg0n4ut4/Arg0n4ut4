@@ -54,6 +54,9 @@ Meu nome completo é **João Pedro Rocha Senna**, também conhecido como **Arg0n
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arg0n4ut4&show_icons=true&theme=tokyonight" alt="Estatísticas GitHub" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arg0n4ut4&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+</p>
 
 ---
 
