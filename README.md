@@ -55,6 +55,13 @@ My full name is **João Pedro Rocha Senna**, also known as **Arg0n4ut4** here on
   <img src="https://github-readme-stats.vercel.app/api?username=Arg0n4ut4&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arg0n4ut4&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arg0n4ut4&theme=tokyonight" alt="Contribuição contínua" />
+</p>
 ---
 
 ### 🎯 Current Goals
