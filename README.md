@@ -11,7 +11,7 @@
 
 ### 🧾 About me
 
-My full name is **João Pedro Rocha Senna**, also known as **Arg0n4ut4** here on GitHub. I'm a dedicated software developer and I.T. student focused on building **fullstack applications**, with a passion for clean architecture, technical precision, and creative problem-solving. My code often reflects clarity, purpose, and a drive to learn.
+My full name is **João Pedro Rocha Senna**, also known as **Arg0n4ut4**. I'm a dedicated software developer and I.T. student focused on building **fullstack applications**, with a passion for clean architecture, technical precision, and creative problem-solving. My code often reflects clarity, purpose, and a drive to learn.
  
 ✉️ **Contact**: ti.senna.main@gmail.com
 
