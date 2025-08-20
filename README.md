@@ -61,11 +61,10 @@ My full name is **João Pedro Rocha Senna**, also known as **Arg0n4ut4**. I'm a 
 
 ---
 
-### 🎯 Current Goals
+<h1 align="center">🎯 Current Goals</h1>
 
-- Improve software architecture skills  
-- Practice algorithms and data structures
-- Learn FastAPI 
+
+<h4 align="center"></br>Improve software architecture skills</h4>
 
 ---
 
