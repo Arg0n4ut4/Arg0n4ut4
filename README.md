@@ -17,7 +17,7 @@ My full name is **João Pedro Rocha Senna**, also known as **Arg0n4ut4**. I'm a 
 
 ---
 
-### 🚀 Main Technologies
+### 🚀 Technologies
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
