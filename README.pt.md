@@ -4,7 +4,7 @@
 
 <h1 align="center">Olá, eu sou o Senna 👨‍💻</h1>
 <p align="center">
-  <i>Desenvolvedor de Software | Estudante de I.T.</i>
+  <i>Desenvolvedor de Software | Estudante de T.I.</i>
 </p>
 
 ---
