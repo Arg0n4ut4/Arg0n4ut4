@@ -17,7 +17,7 @@ Meu nome completo é **João Pedro Rocha Senna**, também conhecido como **Arg0n
 
 ---
 
-### 🚀 Tecnologias principais
+### 🚀 Tecnologias
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
@@ -60,11 +60,9 @@ Meu nome completo é **João Pedro Rocha Senna**, também conhecido como **Arg0n
 
 ---
 
-### 🎯 Objetivos atuais
+<h1 align="center">🎯 Objetivos atuais</h1>
 
-- Aprimorar habilidades em arquitetura de software  
-- Praticar algoritmos e estruturas de dados  
-- Aprender FastAPI
+<h4 align="center"></br>Aprimorar habilidades em arquitetura de software</h4> 
 
 ---
 
