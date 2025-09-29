@@ -2,16 +2,16 @@
   🌍 <a href="./README.md">English version</a>
 </p>
 
-<h1 align="center">Olá, eu sou o Senna 👨‍💻</h1>
+<h1 align="center">Olá, meu nome é Senna 👨‍💻</h1>
 <p align="center">
-  <i>Desenvolvedor de Software | Estudante de T.I.</i>
+  <i>Engenheiro de Software | Estudante de T.I.</i>
 </p>
 
 ---
 
 ### 🧾 Sobre mim
 
-Meu nome completo é **João Pedro Rocha Senna**, também conhecido como **Arg0n4ut4**. Sou um desenvolvedor de software e estudante de I.T. focado na construção de **aplicações fullstack**, com paixão por arquitetura limpa, precisão técnica e resolução criativa de problemas. Meu código costuma refletir clareza, propósito e vontade de aprender.
+Sou um desenvolvedor de software e estudante de I.T. focado na construção de **aplicações fullstack**, com paixão por arquitetura limpa, precisão técnica e resolução criativa de problemas. Meu código costuma refletir clareza, propósito e vontade de aprender.
 
 ✉️ **Contato**: ti.senna.main@gmail.com
 
@@ -57,12 +57,6 @@ Meu nome completo é **João Pedro Rocha Senna**, também conhecido como **Arg0n
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arg0n4ut4&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
-
----
-
-<h1 align="center">🎯 Objetivos atuais</h1>
-
-<h4 align="center"></br>Aprimorar habilidades em arquitetura de software</h4> 
 
 ---
 
