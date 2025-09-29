@@ -4,14 +4,14 @@
 
 <h1 align="center">Hi, I'm Senna 👨‍💻</h1>
 <p align="center">
-  <i>Software Developer | I.T. Student</i>
+  <i>Software engineer | I.T. Student</i>
 </p>
 
 ---
 
 ### 🧾 About me
 
-My full name is **João Pedro Rocha Senna**, also known as **Arg0n4ut4**. I'm a dedicated software developer and I.T. student focused on building **fullstack applications**, with a passion for clean architecture, technical precision, and creative problem-solving. My code often reflects clarity, purpose, and a drive to learn.
+I'm a dedicated software developer and I.T. student focused on building **fullstack applications**, with a passion for clean architecture, technical precision, and creative problem-solving. My code often reflects clarity, purpose, and a drive to learn.
  
 ✉️ **Contact**: ti.senna.main@gmail.com
 
@@ -58,13 +58,6 @@ My full name is **João Pedro Rocha Senna**, also known as **Arg0n4ut4**. I'm a 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arg0n4ut4&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
-
----
-
-<h1 align="center">🎯 Current Goals</h1>
-
-
-<h4 align="center"></br>Improve software architecture skills</h4>
 
 ---
 
