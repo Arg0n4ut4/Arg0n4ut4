@@ -50,17 +50,6 @@ Sou um desenvolvedor de software e estudante de I.T. focado na construção de *
 
 ---
 
-### 📊 Estatísticas GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arg0n4ut4&show_icons=true&theme=tokyonight" alt="Estatísticas GitHub" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arg0n4ut4&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-</p>
-
----
-
 <p align="center">
   <i>“Criatividade é inteligência se divertindo.” – Albert Einstein</i>
 </p>
