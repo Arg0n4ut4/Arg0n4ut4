@@ -51,18 +51,6 @@ I'm a dedicated software developer and I.T. student focused on building **fullst
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arg0n4ut4&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arg0n4ut4&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-</p>
-
----
-
 <p align="center">
   <i>“Creativity is intelligence having fun.” – Albert Einstein</i>
 </p>
