@@ -30,6 +30,7 @@ I'm a dedicated software developer and I.T. student focused on building **fullst
 
 #### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -53,6 +54,7 @@ I'm a dedicated software developer and I.T. student focused on building **fullst
 
 ### 🛠️ Tools & Platforms
 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
@@ -61,6 +63,22 @@ I'm a dedicated software developer and I.T. student focused on building **fullst
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=fff)
 ![Inkscape](https://img.shields.io/badge/-Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=fff)
 
+---
+
+### 🏗️ Architectures
+
+
+#### Core Architectures
+
+![Monolithic](https://img.shields.io/badge/-Monolithic-6C757D?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/-Microservices-FF6F00?style=for-the-badge)
+![Layered Architecture](https://img.shields.io/badge/-Layered_Architecture-5C6BC0?style=for-the-badge)
+
+
+#### Modern & Scalable Architectures
+
+![Clean Architecture](https://img.shields.io/badge/-Clean_Architecture-0A192F?style=for-the-badge)
+![Event-Driven](https://img.shields.io/badge/-Event--Driven-16A085?style=for-the-badge)
 
 ---
 
